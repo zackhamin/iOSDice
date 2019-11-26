@@ -13,6 +13,8 @@
 		5720ED61238C2AD600ABEA22 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5720ED5F238C2AD600ABEA22 /* Main.storyboard */; };
 		5720ED63238C2AD700ABEA22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5720ED62238C2AD700ABEA22 /* Assets.xcassets */; };
 		5720ED66238C2AD700ABEA22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5720ED64238C2AD700ABEA22 /* LaunchScreen.storyboard */; };
+		5720ED6E238C38C000ABEA22 /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5720ED6D238C38C000ABEA22 /* ViewControllerTwo.swift */; };
+		57FB05A6238D2DB200FE78EE /* dicestart.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FB05A5238D2DB200FE78EE /* dicestart.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		5720ED62238C2AD700ABEA22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5720ED65238C2AD700ABEA22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5720ED67238C2AD700ABEA22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5720ED6D238C38C000ABEA22 /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
+		57FB05A5238D2DB200FE78EE /* dicestart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dicestart.png; path = ../../dicestart.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,9 +63,11 @@
 				5720ED59238C2AD600ABEA22 /* AppDelegate.swift */,
 				5720ED5B238C2AD600ABEA22 /* SceneDelegate.swift */,
 				5720ED5D238C2AD600ABEA22 /* ViewController.swift */,
+				5720ED6D238C38C000ABEA22 /* ViewControllerTwo.swift */,
 				5720ED5F238C2AD600ABEA22 /* Main.storyboard */,
 				5720ED62238C2AD700ABEA22 /* Assets.xcassets */,
 				5720ED64238C2AD700ABEA22 /* LaunchScreen.storyboard */,
+				57FB05A5238D2DB200FE78EE /* dicestart.png */,
 				5720ED67238C2AD700ABEA22 /* Info.plist */,
 			);
 			path = DiceGameApp;
@@ -128,6 +134,7 @@
 				5720ED66238C2AD700ABEA22 /* LaunchScreen.storyboard in Resources */,
 				5720ED63238C2AD700ABEA22 /* Assets.xcassets in Resources */,
 				5720ED61238C2AD600ABEA22 /* Main.storyboard in Resources */,
+				57FB05A6238D2DB200FE78EE /* dicestart.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 				5720ED5E238C2AD600ABEA22 /* ViewController.swift in Sources */,
 				5720ED5A238C2AD600ABEA22 /* AppDelegate.swift in Sources */,
 				5720ED5C238C2AD600ABEA22 /* SceneDelegate.swift in Sources */,
+				5720ED6E238C38C000ABEA22 /* ViewControllerTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
